@@ -23,4 +23,10 @@ Required Hardware:
 
 Please note that due to differences in sensor affects, you may need to fine-tune to parameters.
 
+
+Remember that this is not completely new, you can find better examples. 
+There is already a standard code for this problem.
+
+Thank you for your concentration.
+
 Greetings to all droid doctors around the world! :)
