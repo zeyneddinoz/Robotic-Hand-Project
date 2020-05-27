@@ -23,7 +23,7 @@ Required Hardware:
 
 Please note that due to differences in sensor affects, you may need to fine-tune to parameters.
 
-Remember that this is not completely new, you can find better examples. There is already a standard code for this problem. Differently, we made our own flex sensor using "Velostat" and observed that it works well although it has an uncertain lifetime.
+Remember that this is not completely new, you can find better examples. There is already a standard code for this problem. Differently, we made our own flex sensor using velostat and observed that it works well although it has an uncertain lifetime.
 
 Thank you for your concentration.
 
