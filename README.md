@@ -8,7 +8,7 @@ Required Hardware:
 * 1x Arduino UNO R3
 * 2x NRF24L01+
 * 2x NRF24L01+ Adapter 
-* 5x Flex Sensor (We made our own flex sensor using Velostat. Do not forget that it has an uncertain lifetime)
+* 5x Flex Sensor
 * 5x MG90S Servo
 * 5x Steel Springs
 * 1x Gloves
@@ -23,9 +23,7 @@ Required Hardware:
 
 Please note that due to differences in sensor affects, you may need to fine-tune to parameters.
 
-
-Remember that this is not completely new, you can find better examples. 
-There is already a standard code for this problem.
+Remember that this is not completely new, you can find better examples. There is already a standard code for this problem. Differently, we made our own flex sensor using "Velostat" and observed that it works well although it has an uncertain lifetime.
 
 Thank you for your concentration.
 
