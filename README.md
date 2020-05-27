@@ -1,6 +1,6 @@
 # Robotic-Hand-Project
 
-This was a school project which made with his classmates while he was studying his bachelor's degree in the Dept. of Computer Engineering in 2017. It earned 2nd place in Inonu University's Robotic Tournament named Robocot. 
+This was a school project which made with his classmates (https://github.com/guli-dlbdk) while he was studying his bachelor's degree in the Dept. of Computer Engineering in 2017. It earned 2nd place in Inonu University's Robotic Tournament named Robocot. 
 
 
 Required Hardware:
