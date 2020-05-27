@@ -5,12 +5,9 @@ This was a school project which made with his classmates while he was studying h
 Required Hardware:
 
 * 1x Arduino UNO R3
-
 * 2x NRF24L01+
-
 * 2x NRF24L01+ Adapter 
-
-* 5x Flex Sensor (We made our own flex sensor using Velostat)
+* 5x Flex Sensor (We made our own flex sensor using Velostat. Do not forget that it has an uncertain lifetime.)
 
 * 5x MG90S Servo
 
